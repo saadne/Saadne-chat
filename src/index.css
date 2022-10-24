@@ -12,14 +12,13 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 100vw;
   height: 100vh;
 }
 
 .nav-bar {
   width: 100%;
   height: 66px;
-  background-color: #4b16be;
+  background-color: #3d0ca8;
 }
 
 .logo-tab {
