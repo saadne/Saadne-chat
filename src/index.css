@@ -12,13 +12,14 @@
   position: absolute;
   top: 0px;
   left: 0px;
+  width: 100vw;
   height: 100vh;
 }
 
 .nav-bar {
   width: 100%;
   height: 66px;
-  background-color: #3d0ca8;
+  background-color: #2d046b;
 }
 
 .logo-tab {
@@ -46,7 +47,7 @@
 /* Login Page */
 
 #login-page {
-  background-image: linear-gradient(#4b16be, #150888);
+  background-image: linear-gradient(#2d046b, #5b1fb4);
   position: absolute;
   top: 0px;
   bottom: 0px;
